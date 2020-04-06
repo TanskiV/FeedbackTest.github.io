@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ff4dc7b-00f6-4f46-9443-090021d8e0f2" name="Default Changelist" comment="V0.2">
+    <list default="true" id="6ff4dc7b-00f6-4f46-9443-090021d8e0f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,20 +66,24 @@
       <command value="echo &quot;# Feedback&quot; &gt;&gt; README.md git init git add README.md git commit -m &quot;first commit&quot; git remote add origin https://github.com/TanskiV/Feedback.git git push -u origin master                 " />
     </option>
   </component>
-  <component name="RunManager" selected="npm.npm start">
+  <component name="RunManager" selected="npm.npm bild">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
-    <configuration name="npm start" type="js.build_tools.npm">
+    <configuration name="npm bild" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
       <scripts>
-        <script value="start" />
+        <script value="build" />
       </scripts>
       <node-interpreter value="project" />
       <envs />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="npm.npm bild" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -91,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586165575734</updated>
-      <workItem from="1586165577037" duration="10252000" />
+      <workItem from="1586165577037" duration="10963000" />
     </task>
     <task id="LOCAL-00001" summary="V0.1">
       <created>1586167993577</created>
@@ -107,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586181283872</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="V0.2">
+      <created>1586182237594</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586182237594</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,14 +134,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" key="#Deployment/0.0.1440.900@0.0.1440.900" timestamp="1586182047043" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586186182688">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1586186182688" />
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586166570701">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1586166570701" />
-    <state x="0" y="0" width="1440" height="900" key="CommitChangelistDialog2" timestamp="1586182065769">
+    <state x="0" y="0" width="1440" height="900" key="CommitChangelistDialog2" timestamp="1586182237459">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="0" y="0" width="1440" height="900" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1586182065769" />
+    <state x="0" y="0" width="1440" height="900" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1586182237459" />
     <state x="144" y="78" width="1152" height="720" key="DiffContextDialog" timestamp="1586182010004">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -139,22 +154,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="500" y="324" key="Github.CreatePullRequestDialog/0.0.1440.900@0.0.1440.900" timestamp="1586182185738" />
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1586181286489">
+    <state x="587" y="350" key="Github.ShareDialog" timestamp="1586182474182">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586181286489" />
-    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1586181286486">
+    <state x="587" y="350" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1586182474182" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1586186194563">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586181286486" />
-    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1586181286485">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586186194563" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1586186194562">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586181286485" />
-    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1586181286488">
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586186194562" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1586186194562">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586181286488" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586186194562" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1586186194562">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586186194562" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1586181960808">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
